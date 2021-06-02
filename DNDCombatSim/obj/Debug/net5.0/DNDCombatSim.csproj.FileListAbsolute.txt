@@ -1,0 +1,16 @@
+C:\Users\derek\Documents\GitHub\DNDCombatSim\DNDCombatSim\bin\Debug\net5.0\DNDCombatSim.exe
+C:\Users\derek\Documents\GitHub\DNDCombatSim\DNDCombatSim\bin\Debug\net5.0\DNDCombatSim.deps.json
+C:\Users\derek\Documents\GitHub\DNDCombatSim\DNDCombatSim\bin\Debug\net5.0\DNDCombatSim.runtimeconfig.json
+C:\Users\derek\Documents\GitHub\DNDCombatSim\DNDCombatSim\bin\Debug\net5.0\DNDCombatSim.runtimeconfig.dev.json
+C:\Users\derek\Documents\GitHub\DNDCombatSim\DNDCombatSim\bin\Debug\net5.0\DNDCombatSim.dll
+C:\Users\derek\Documents\GitHub\DNDCombatSim\DNDCombatSim\bin\Debug\net5.0\ref\DNDCombatSim.dll
+C:\Users\derek\Documents\GitHub\DNDCombatSim\DNDCombatSim\bin\Debug\net5.0\DNDCombatSim.pdb
+C:\Users\derek\Documents\GitHub\DNDCombatSim\DNDCombatSim\obj\Debug\net5.0\DNDCombatSim.csprojAssemblyReference.cache
+C:\Users\derek\Documents\GitHub\DNDCombatSim\DNDCombatSim\obj\Debug\net5.0\DNDCombatSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derek\Documents\GitHub\DNDCombatSim\DNDCombatSim\obj\Debug\net5.0\DNDCombatSim.AssemblyInfoInputs.cache
+C:\Users\derek\Documents\GitHub\DNDCombatSim\DNDCombatSim\obj\Debug\net5.0\DNDCombatSim.AssemblyInfo.cs
+C:\Users\derek\Documents\GitHub\DNDCombatSim\DNDCombatSim\obj\Debug\net5.0\DNDCombatSim.csproj.CoreCompileInputs.cache
+C:\Users\derek\Documents\GitHub\DNDCombatSim\DNDCombatSim\obj\Debug\net5.0\DNDCombatSim.dll
+C:\Users\derek\Documents\GitHub\DNDCombatSim\DNDCombatSim\obj\Debug\net5.0\ref\DNDCombatSim.dll
+C:\Users\derek\Documents\GitHub\DNDCombatSim\DNDCombatSim\obj\Debug\net5.0\DNDCombatSim.pdb
+C:\Users\derek\Documents\GitHub\DNDCombatSim\DNDCombatSim\obj\Debug\net5.0\DNDCombatSim.genruntimeconfig.cache
