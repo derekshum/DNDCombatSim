@@ -1,0 +1,6 @@
+- more combatants
+- database and querying of monsters
+- special abilities and other ongoing statuses
+- clearer display
+
+
