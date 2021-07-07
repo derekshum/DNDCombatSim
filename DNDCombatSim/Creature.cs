@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data.Entity;
 
 namespace DNDCombatSim
 {
@@ -11,7 +12,6 @@ namespace DNDCombatSim
 		public int attackBonus;
 		public string damage;
 		public int initiativeBonus;
-
 		public Creature(string nameIn, int maxHPIn, int armorClassIn, int attackBonusIn, string damageIn, int initiativeBonusIn)
 		{
 			name = nameIn;
@@ -23,4 +23,10 @@ namespace DNDCombatSim
 			initiativeBonus = initiativeBonusIn;
 		}
 	}
+
+	public class DndDbContext : DbContext
+    {
+		public DbSet<Creature> Creatures { get; set; }
+
+    }
 }

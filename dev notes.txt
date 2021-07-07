@@ -1,5 +1,5 @@
-- more combatants
 - database and querying of monsters
+	- Entity Framework
 - special abilities and other ongoing statuses
 - clearer display
 
